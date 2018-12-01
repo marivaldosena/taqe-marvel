@@ -2,7 +2,9 @@
 
 Este projeto foi desenvolvido usando o Angular 7 e consome a api da Marvel para pesquisar as revistas que têm o Hulk como personagem principal ou secundário.
 
-# Tabela de Conteúdo
+Para acessar a aplicação funcional, digite [Taqe-Marvel](https://marivaldosena.github.io/taqe-marvel/)
+
+## Tabela de Conteúdo
 
 * [Requisitos do Sistema](#requisitos-do-sistema)
 * [Instalação](#instalação)
@@ -18,7 +20,6 @@ Este projeto foi desenvolvido usando o Angular 7 e consome a api da Marvel para 
 * [Testes Unitários](#testes-unitários)
 * [Build](#build)
 * [Ajuda Adicional](#ajuda-adicional)
-
 
 ## Requisitos do Sistema
 
@@ -40,7 +41,7 @@ Para instalar o Node.js, vá para a página do [Node.js](https://nodejs.org/en/)
 
 ### Angular CLI
 
-Angular CLI é uma ferramenta de linha de comando que serve para criar, configurar e instalar dependências do Angular. 
+Angular CLI é uma ferramenta de linha de comando que serve para criar, configurar e instalar dependências do Angular.
 
 Para instalar o Angular CLI usando o NPM, digite `npm install -g @angular/cli` no Windows ou macOS ou `sudo npm install -g @angular/cli` no Linux.
 
