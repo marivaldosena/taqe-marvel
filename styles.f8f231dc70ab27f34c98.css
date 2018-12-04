@@ -1,0 +1,1 @@
+.header{justify-self:stretch}.container{display:grid;grid-template-columns:35% 65%}.comic-list{overflow:scroll;height:90vh}.comic-list .comic-item{display:flex;border:1px solid}.comic-list .comic-item .summary{display:flex;flex-direction:column}
