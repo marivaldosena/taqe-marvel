@@ -1,0 +1,2873 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2018 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2018 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2018 MARVEL</a>",
+  "etag": "f1c7993dc9f889f0c8f4fe2e3d8fac8f4c8504e2",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1544,
+    "count": 20,
+    "results": [
+      {
+        "id": 22253,
+        "digitalId": 0,
+        "title": "Hulk Custom Comic (2008) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22253",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22253/hulk_custom_comic_2008_1?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5865",
+          "name": "Hulk Custom Comic (2008)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22253/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22253/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22253/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/50568",
+              "name": "Cover #50568",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/50569",
+              "name": "Interior #50569",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/22253/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 27649,
+        "digitalId": 0,
+        "title": "Incredible Hulks (2010) #604 (DJURDJEVIC 70TH ANNIVERSARY VARIANT)",
+        "issueNumber": 604,
+        "variantDescription": "DJURDJEVIC 70TH ANNIVERSARY VARIANT",
+        "description": "After picking fights with the Juggernaut, Norman Osborn, and the Wolverine clan, the most insane father and son team in the Marvel Universe might actually be bonding.  But everything's about to blow wide open for Bruce Banner and his big, green, barbarian son Skaar when one of the Hulk's greatest enemies brings back the most important villainess Bruce Banner's ever faced.  Who is the Harpy?  And whose side will Banner take when she and Skaar meet sword to claw in a gamma-powered deathmatch?  Stone might bleed, feathers might fly, and hearts might break in the highest stakes battle yet for Banner and Son! Plus, The Savage SHE-HULK continues her quest to find\r\nJennifer Walters in a back-up by Fred Van Lente and\r\nMichael Ryan!\r\nRated A ...$3.99",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606637-60421",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "After picking fights with the Juggernaut, Norman Osborn, and the Wolverine clan, the most insane father and son team in the Marvel Universe might actually be bonding.  But everything's about to blow wide open for Bruce Banner and his big, green, barbarian son Skaar when one of the Hulk's greatest enemies brings back the most important villainess Bruce Banner's ever faced.  Who is the Harpy?  And whose side will Banner take when she and Skaar meet sword to claw in a gamma-powered deathmatch?  Stone might bleed, feathers might fly, and hearts might break in the highest stakes battle yet for Banner and Son! Plus, The Savage SHE-HULK continues her quest to find\r\nJennifer Walters in a back-up by Fred Van Lente and\r\nMichael Ryan!\r\nRated A ...$3.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27649",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/27649/incredible_hulks_2010_604_djurdjevic_70th_anniversary_variant/djurdjevic_70th_anniversary_variant?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/8842",
+          "name": "Incredible Hulks (2010 - 2011)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27648",
+            "name": "Incredible Hulks (2010) #604"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2009-10-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4badb223f33c9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4badb223f33c9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27649/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+              "name": "Marko Djurdjevic",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+              "name": "Ariel Olivetti",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+              "name": "Michael Ryan",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+              "name": "Greg Pak",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7894",
+              "name": "Fred Van Lente",
+              "role": "writer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27649/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27649/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60567",
+              "name": "Cover #60567",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/60568",
+              "name": "Interior #60568",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/27649/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 183,
+        "digitalId": 0,
+        "title": "Startling Stories: The Incorrigible Hulk (2004) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "For Doctor Bruce Banner life is anything but normal. But what happens when two women get between him and his alter ego, the Incorrigible Hulk? Hulk confused! \r\nIndy superstar Peter Bagge (THE MEGALOMANIACAL SPIDER-MAN) takes a satirical jab at the Hulk mythos with a tale of dames, debauchery and destruction.\r\n32 PGS./MARVEL PSR...$2.99",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960605429-00811",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "For Doctor Bruce Banner life is anything but normal. But what happens when two women get between him and his alter ego, the Incorrigible Hulk? Hulk confused! \r\nIndy superstar Peter Bagge (THE MEGALOMANIACAL SPIDER-MAN) takes a satirical jab at the Hulk mythos with a tale of dames, debauchery and destruction.\r\n32 PGS./MARVEL PSR...$2.99"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/183",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/183/startling_stories_the_incorrigible_hulk_2004_1?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/565",
+          "name": "Startling Stories: The Incorrigible Hulk (2004)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/183/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6291",
+              "name": "Peter Bagge",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/183/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/183/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1891",
+              "name": "Cover #1891",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/1892",
+              "name": "Interior #1892",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/183/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 70413,
+        "digitalId": 0,
+        "title": "Jeph Loeb & Tim Sale: Yellow, Blue, Gray & White (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "All four of Jeph Loeb and Tim Sale’s classic “color” masterpieces in one atmospheric hardcover! Blind acrobat Daredevil was inspired to heroism by the example of his prizefighter father — but Matt Murdock is a young man in love with Karen Page. Relive Daredevil’s heartwarming, heartbreaking debut! Then, Peter Parker and Gwen Stacy want to spend the rest of their lives together — but first, Spider-Man must run a gauntlet of his greatest foes. No matter how powerful the Incredible Hulk becomes, his heart can still be shattered by Betty Ross — the daughter of his greatest enemy! And Captain America battles beside best friend Bucky behind enemy lines in World War II! Touching and insightful tales of super-heroism from an Eisner Award-winning team! Collecting DAREDEVIL: YELLOW #1-6, SPIDER-MAN: BLUE #1-6, HULK: GRAY #1-6 and CAPTAIN AMERICA: WHITE #0-5.",
+        "modified": "2018-11-30T14:58:34-0500",
+        "isbn": "978-1-302-91405-9",
+        "upc": "",
+        "diamondCode": "JUN180964",
+        "ean": "9781302 914059 59999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 664,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "All four of Jeph Loeb and Tim Sale’s classic “color” masterpieces in one atmospheric hardcover! Blind acrobat Daredevil was inspired to heroism by the example of his prizefighter father — but Matt Murdock is a young man in love with Karen Page. Relive Daredevil’s heartwarming, heartbreaking debut! Then, Peter Parker and Gwen Stacy want to spend the rest of their lives together — but first, Spider-Man must run a gauntlet of his greatest foes. No matter how powerful the Incredible Hulk becomes, his heart can still be shattered by Betty Ross — the daughter of his greatest enemy! And Captain America battles beside best friend Bucky behind enemy lines in World War II! Touching and insightful tales of super-heroism from an Eisner Award-winning team! Collecting DAREDEVIL: YELLOW #1-6, SPIDER-MAN: BLUE #1-6, HULK: GRAY #1-6 and CAPTAIN AMERICA: WHITE #0-5."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/70413",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/70413/jeph_loeb_tim_sale_yellow_blue_gray_white_hardcover?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/25734",
+          "name": "Jeph Loeb & Tim Sale: Yellow, Blue, Gray & White (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-12-05T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-07-16T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 100
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5c01999462c7e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5c01999462c7e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70413/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+              "name": "Jeph Loeb",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/19",
+              "name": "Tim Sale",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70413/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70413/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/156653",
+              "name": "cover from JEPH LOEB & TIM SALE: YELLOW, BLUE, GRAY & WHITE OMNIBUS HC (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/156654",
+              "name": "story from JEPH LOEB & TIM SALE: YELLOW, BLUE, GRAY & WHITE OMNIBUS HC (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70413/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 73432,
+        "digitalId": 0,
+        "title": "Immortal Hulk: The Best Defense (2018) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2018-11-28T17:21:15-0500",
+        "isbn": "",
+        "upc": "75960609231400111",
+        "diamondCode": "OCT180815",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/73432",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/73432/immortal_hulk_the_best_defense_2018_1?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/IMMORTAL-HULK-THE-BEST-DEFENSE-1-1/digital-comic/50000?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26481",
+          "name": "Immortal Hulk: The Best Defense (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-12-05T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-11-05T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/5bff082be5ba7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/5bff082be5ba7",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/5bb3d1c79b3a8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/73432/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+              "name": "Ron Garney",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13055",
+              "name": "Richard Isanove",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13554",
+              "name": "Simone DI Meo",
+              "role": "inker"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/73432/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/73432/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/163670",
+              "name": "cover from Hulk: Defenders (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/163671",
+              "name": "story from Hulk: Defenders (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/73432/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 67141,
+        "digitalId": 0,
+        "title": "Immortal Hulk (2018) #10",
+        "issueNumber": 10,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2018-11-10T09:02:24-0500",
+        "isbn": "",
+        "upc": "75960608956701011",
+        "diamondCode": "OCT180901",
+        "ean": "",
+        "issn": "1941-2142",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67141",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67141/immortal_hulk_2018_10?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Immortal-Hulk-10/digital-comic/50001?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24278",
+          "name": "Immortal Hulk (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-12-05T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-11-05T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5bff080719340",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5bff080719340",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5bb3d13fa518f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67141/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13278",
+              "name": "Ruy Jose",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67141/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67141/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145465",
+              "name": "cover from Immortal Hulk (2018) #10",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145466",
+              "name": "story from Immortal Hulk (2018) #10",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67141/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 68617,
+        "digitalId": 0,
+        "title": "Immortal Hulk Vol. 1: Or is He Both? (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Collects Immortal Hulk #1-5 and material from Avengers (2016) #684 by Jim Zub and Mark Waid. Horror has a name. You’d never notice the man. He doesn’t like to be noticed. He’s quiet. Calm. If someone were to shoot him in the head…all he’d do is die. Until night falls — and someone else gets up again. The man’s name is Banner. The horror is the Immortal Hulk! And trouble has a way of following them both. As reporter Jackie McGee tries to put together the pieces, Banner treads a lonely path from town to town, finding murder, mystery and tragedy as he goes. And what Banner finds, the Hulk smashes! Elsewhere, the hero called Sasquatch can’t help but feel involved. In many ways, he’s Banner’s equal — and his opposite. Sasquatch is about to risk his life by looking for the man — and finding the monster!",
+        "modified": "2018-11-15T16:38:43-0500",
+        "isbn": "978-1-302-91255-0",
+        "upc": "",
+        "diamondCode": "AUG181082",
+        "ean": "9781302 912550 51599",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 128,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Collects Immortal Hulk #1-5 and material from Avengers (2016) #684 by Jim Zub and Mark Waid. Horror has a name. You’d never notice the man. He doesn’t like to be noticed. He’s quiet. Calm. If someone were to shoot him in the head…all he’d do is die. Until night falls — and someone else gets up again. The man’s name is Banner. The horror is the Immortal Hulk! And trouble has a way of following them both. As reporter Jackie McGee tries to put together the pieces, Banner treads a lonely path from town to town, finding murder, mystery and tragedy as he goes. And what Banner finds, the Hulk smashes! Elsewhere, the hero called Sasquatch can’t help but feel involved. In many ways, he’s Banner’s equal — and his opposite. Sasquatch is about to risk his life by looking for the man — and finding the monster!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/68617",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/68617/immortal_hulk_vol_1_or_is_he_both_trade_paperback?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24890",
+          "name": "Immortal Hulk Vol. 1: Or is He Both? (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-11-21T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-10-01T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 15.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/5bedec64cd2b5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/5bedec64cd2b5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68617/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68617/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68617/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/149821",
+              "name": "cover from IMMORTAL HULK VOL. 1 TPB (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/149822",
+              "name": "story from IMMORTAL HULK VOL. 1 TPB (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68617/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 67140,
+        "digitalId": 0,
+        "title": "Immortal Hulk (2018) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2018-09-09T09:06:03-0400",
+        "isbn": "",
+        "upc": "75960608956700911",
+        "diamondCode": "SEP180903",
+        "ean": "",
+        "issn": "1941-2142",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67140",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67140/immortal_hulk_2018_9?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Immortal-Hulk-9/digital-comic/49725?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24278",
+          "name": "Immortal Hulk (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-11-21T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-10-29T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/5becad462e9dc",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/5becad462e9dc",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/5b86fe163f7df",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67140/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13299",
+              "name": "Martin Simmonds",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67140/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009148",
+              "name": "Absorbing Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67140/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145463",
+              "name": "cover from Immortal Hulk (2018) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145464",
+              "name": "story from Immortal Hulk (2018) #9",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67140/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 67150,
+        "digitalId": 0,
+        "title": "Infinity Wars (2018) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2018-09-09T09:06:07-0400",
+        "isbn": "",
+        "upc": "75960608967300511",
+        "diamondCode": "SEP180863",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67150",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67150/infinity_wars_2018_5?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Infinity-Wars-5/digital-comic/49726?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24279",
+          "name": "Infinity Wars (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-11-07T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-10-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5bdb65a5288ec",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5bdb65a5288ec",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/5b86fd201c3ac",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67150/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13215",
+              "name": "Rain Beredo",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13567",
+              "name": "Mike Deodato Jr.",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+              "name": "Gerry Duggan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4991",
+              "name": "Frank Martin",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67150/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010801",
+              "name": "Ant-Man (Scott Lang)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+              "name": "Emma Frost"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010763",
+              "name": "Gamora"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009384",
+              "name": "Kang"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009407",
+              "name": "Loki"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017577",
+              "name": "Ms. Marvel (Kamala Khan)"
+            }
+          ],
+          "returned": 7
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67150/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145483",
+              "name": "cover from Infinity's Requiem (2018) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145484",
+              "name": "story from Infinity's Requiem (2018) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67150/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 67139,
+        "digitalId": 0,
+        "title": "Immortal Hulk (2018) #8",
+        "issueNumber": 8,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2018-09-09T09:06:00-0400",
+        "isbn": "",
+        "upc": "75960608956700811",
+        "diamondCode": "SEP180901",
+        "ean": "",
+        "issn": "1941-2142",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67139",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67139/immortal_hulk_2018_8?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Immortal-Hulk-8/digital-comic/49724?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24278",
+          "name": "Immortal Hulk (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-11-07T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-10-15T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/5bdb658da3c63",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/5bdb658da3c63",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5b86fe0706b25",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67139/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13278",
+              "name": "Ruy Jose",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67139/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67139/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145461",
+              "name": "cover from Immortal Hulk (2018) #8",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145462",
+              "name": "story from Immortal Hulk (2018) #8",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67139/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 68635,
+        "digitalId": 0,
+        "title": "Incredible Hulk Epic Collection: The Leader Lives (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Collects Incredible Hulk (1968) #102-117 and Annual #1, and material from Tales To Astonish (1959) #97-101 And Not Brand Echh #9. I smash, you smash, but nobody, nobody, smashes like Hulk smash! Leaping out of the pages of TALES TO ASTONISH and into his own ongoing title again, the Incredible Hulk has twice the space to shake the Earth with his mighty rage. And he’ll need it! The Hulk travels far and wide — but doesn’t make too many friends along the way! The jade giant’s travelogue of destruction leaves the Mandarin, the Inhumans, the Sandman and the entire Savage Land rubbing sore jaws. And when Hulk’s archnemesis the Leader returns, all bets are off — as writer Stan Lee joins with iconic Hulk artist Herb Trimpe (who makes his debut in this very volume!) to pull out all the stops!",
+        "modified": "2018-10-25T15:27:25-0400",
+        "isbn": "978-1-302-91313-7",
+        "upc": "",
+        "diamondCode": "AUG181099",
+        "ean": "9781302 913137 53999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 488,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Collects Incredible Hulk (1968) #102-117 and Annual #1, and material from Tales To Astonish (1959) #97-101 And Not Brand Echh #9. I smash, you smash, but nobody, nobody, smashes like Hulk smash! Leaping out of the pages of TALES TO ASTONISH and into his own ongoing title again, the Incredible Hulk has twice the space to shake the Earth with his mighty rage. And he’ll need it! The Hulk travels far and wide — but doesn’t make too many friends along the way! The jade giant’s travelogue of destruction leaves the Mandarin, the Inhumans, the Sandman and the entire Savage Land rubbing sore jaws. And when Hulk’s archnemesis the Leader returns, all bets are off — as writer Stan Lee joins with iconic Hulk artist Herb Trimpe (who makes his debut in this very volume!) to pull out all the stops!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/68635",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/68635/incredible_hulk_epic_collection_the_leader_lives_trade_paperback?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24900",
+          "name": "Incredible Hulk Epic Collection: The Leader Lives (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-10-31T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-09-10T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5bd2215bcfa84",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5bd2215bcfa84",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68635/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "various",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1209",
+              "name": "Gary Friedrich",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+              "name": "Stan Lee",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+              "name": "Frank Giacoia",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/199",
+              "name": "Herb Trimpe",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/198",
+              "name": "Marie Severin",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68635/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009398",
+              "name": "Leader"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68635/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/149959",
+              "name": "cover from INCREDIBLE HULK EPIC COLLECTION: THE LEADER LIVES TPB (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/149960",
+              "name": "story from INCREDIBLE HULK EPIC COLLECTION: THE LEADER LIVES TPB (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68635/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 67138,
+        "digitalId": 0,
+        "title": "Immortal Hulk (2018) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2018-10-03T09:03:28-0400",
+        "isbn": "",
+        "upc": "75960608956700711",
+        "diamondCode": "AUG180963",
+        "ean": "",
+        "issn": "1941-2142",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67138",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67138/immortal_hulk_2018_7?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Immortal-Hulk-7/digital-comic/49485?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24278",
+          "name": "Immortal Hulk (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-10-10T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-09-17T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5bb530c4eab58",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5bb530c4eab58",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5b6202d1866fc",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67138/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13278",
+              "name": "Ruy Jose",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67138/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67138/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145459",
+              "name": "cover from Immortal Hulk (2018) #7",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145460",
+              "name": "story from Immortal Hulk (2018) #7",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67138/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 67137,
+        "digitalId": 0,
+        "title": "Immortal Hulk (2018) #6",
+        "issueNumber": 6,
+        "variantDescription": "",
+        "description": "Bruce Banner is alive — and everyone knows it. Now he’s hunted by the government, Alpha Flight, the mysterious Shadow Base...and the Avengers. And someone’s going to find him first. But Bruce has bigger problems. Something terrible has infected him. Something with unspeakable plans for humanity. And the only one who knows about it...is the IMMORTAL HULK.",
+        "modified": "2018-09-13T19:40:10-0400",
+        "isbn": "",
+        "upc": "75960608956700611",
+        "diamondCode": "JUL181025",
+        "ean": "",
+        "issn": "1941-2142",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Bruce Banner is alive — and everyone knows it. Now he’s hunted by the government, Alpha Flight, the mysterious Shadow Base...and the Avengers. And someone’s going to find him first. But Bruce has bigger problems. Something terrible has infected him. Something with unspeakable plans for humanity. And the only one who knows about it...is the IMMORTAL HULK."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67137",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67137/immortal_hulk_2018_6?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Immortal-Hulk-6/digital-comic/49115?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24278",
+          "name": "Immortal Hulk (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-09-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-08-27T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5b999d138b33b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5b999d138b33b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5b33e58eb7306",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67137/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8933",
+              "name": "Lee Garbett",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67137/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67137/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145457",
+              "name": "cover from Immortal Hulk (2018) #6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145458",
+              "name": "story from Immortal Hulk (2018) #6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67137/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 67136,
+        "digitalId": 0,
+        "title": "Immortal Hulk (2018) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "Guest-starring Alpha Flight’s Sasquatch! The monster inside Bruce Banner is fully unleashed — in a brutal, bloody battle with the monster who made him. Blood will flow. The truth will come out. There can only be one winner...and it won’t be the IMMORTAL HULK.",
+        "modified": "2018-08-30T15:46:01-0400",
+        "isbn": "",
+        "upc": "75960608956700511",
+        "diamondCode": "JUL181023",
+        "ean": "",
+        "issn": "1941-2142",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Guest-starring Alpha Flight’s Sasquatch! The monster inside Bruce Banner is fully unleashed — in a brutal, bloody battle with the monster who made him. Blood will flow. The truth will come out. There can only be one winner...and it won’t be the IMMORTAL HULK."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67136",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67136/immortal_hulk_2018_5?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Immortal-Hulk-5/digital-comic/49114?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24278",
+          "name": "Immortal Hulk (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-09-05T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-08-13T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/5b8829c57f898",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/5b8829c57f898",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/5b33e5a2d5df3",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67136/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13278",
+              "name": "Ruy Jose",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67136/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009560",
+              "name": "Sasquatch (Walter Langkowski)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67136/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145455",
+              "name": "cover from Immortal Hulk (2018) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145456",
+              "name": "story from Immortal Hulk (2018) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67136/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 70297,
+        "digitalId": 0,
+        "title": "Fantastic Four: The World's Greatest Comics Magazine (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Collects Fantastic Four: World’s Greatest Comics Magazine #1-12. Stan Lee and Jack Kirby’s legendary run on FANTASTIC FOUR lasted more than one hundred issues — and ended all too soon! Now, witness the continuing adventures of Marvel’s First Family, told as if Stan and Jack never left the book! Some of comics’ most talented creators join forces in this time-tossed tribute to the original Imaginauts! Featuring Doctor Doom, the Avengers, the X-Men, Thor, the Hulk, Daredevil, Black Panther, the Inhumans, the Sub-Mariner, the Silver Surfer, M.O.D.O.K., Annihilus and more! It’s an action-packed celebration of everything that made Stan and Jack’s FANTASTIC FOUR truly the World’s Greatest Comics Magazine!",
+        "modified": "2018-08-15T17:13:25-0400",
+        "isbn": "978-1-302-91337-3",
+        "upc": "",
+        "diamondCode": "MAY180993",
+        "ean": "9781302 913373 52499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 280,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Collects Fantastic Four: World’s Greatest Comics Magazine #1-12. Stan Lee and Jack Kirby’s legendary run on FANTASTIC FOUR lasted more than one hundred issues — and ended all too soon! Now, witness the continuing adventures of Marvel’s First Family, told as if Stan and Jack never left the book! Some of comics’ most talented creators join forces in this time-tossed tribute to the original Imaginauts! Featuring Doctor Doom, the Avengers, the X-Men, Thor, the Hulk, Daredevil, Black Panther, the Inhumans, the Sub-Mariner, the Silver Surfer, M.O.D.O.K., Annihilus and more! It’s an action-packed celebration of everything that made Stan and Jack’s FANTASTIC FOUR truly the World’s Greatest Comics Magazine!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/70297",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/70297/fantastic_four_the_worlds_greatest_comics_magazine_trade_paperback?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/25686",
+          "name": "Fantastic Four: The World's Greatest Comics Magazine (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-08-22T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-07-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 24.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5b749e263329f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5b749e263329f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70297/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "various",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/704",
+              "name": "Erik Larsen",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70297/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+              "name": "Daredevil"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+              "name": "Silver Surfer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+              "name": "Thor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 8
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70297/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/156373",
+              "name": "cover from FANTASTIC FOUR: THE WORLD'S GREATEST COMICS MAGAZINE TPB (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/156374",
+              "name": "story from FANTASTIC FOUR: THE WORLD'S GREATEST COMICS MAGAZINE TPB (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70297/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 68543,
+        "digitalId": 0,
+        "title": "Hulk by Mark Waid & Gerry Duggan: The Complete Collection (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Bruce Banner lies at death’s door, shot in the head by an unknown assailant. And only the Hulk can save him! But as Banner goes to a dark place, he could drag the Avengers down with him. A secret that smashes Bruce Banner and Tony Stark’s friendship is revealed — and when Stark takes extreme measures to save Banner’s life, a new Hulk emerges. Call him Doc Green. He’s intelligent, ruthless and plans to cure everyone transformed by gamma radiation — whether they like it or not! We’re talking Rick “A-Bomb” Jones, multiple She-Hulks and Thunderbolt Ross, the Red Hulk! But Ross won’t go down without one heck of a fight. And will Doc Green’s peacekeeping plans accidentally unleash an even greater threat? The next step in the Hulk’s evolution is here! Collecting HULK (2014) #1-16 and ANNUAL #1, and ORIGINAL SIN #3.1-3.4.",
+        "modified": "2018-08-15T17:18:36-0400",
+        "isbn": "978-1-302-91319-9",
+        "upc": "",
+        "diamondCode": "MAY180978",
+        "ean": "9781302 913199 53999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 504,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Bruce Banner lies at death’s door, shot in the head by an unknown assailant. And only the Hulk can save him! But as Banner goes to a dark place, he could drag the Avengers down with him. A secret that smashes Bruce Banner and Tony Stark’s friendship is revealed — and when Stark takes extreme measures to save Banner’s life, a new Hulk emerges. Call him Doc Green. He’s intelligent, ruthless and plans to cure everyone transformed by gamma radiation — whether they like it or not! We’re talking Rick “A-Bomb” Jones, multiple She-Hulks and Thunderbolt Ross, the Red Hulk! But Ross won’t go down without one heck of a fight. And will Doc Green’s peacekeeping plans accidentally unleash an even greater threat? The next step in the Hulk’s evolution is here! Collecting HULK (2014) #1-16 and ANNUAL #1, and ORIGINAL SIN #3.1-3.4."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/68543",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/68543/hulk_by_mark_waid_gerry_duggan_the_complete_collection_trade_paperback?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24871",
+          "name": "Hulk by Mark Waid & Gerry Duggan: The Complete Collection (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-08-22T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-07-02T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5b749e062955c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5b749e062955c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68543/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "various",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+              "name": "Luke Ross",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+              "name": "Gerry Duggan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68543/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011223",
+              "name": "Skaar"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014812",
+              "name": "Thunderbolt Ross"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68543/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/149662",
+              "name": "cover from HULK BY MARK WAID & GERRY DUGGAN: THE COMPLETE COLLECTION TPB (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/149663",
+              "name": "story from HULK BY MARK WAID & GERRY DUGGAN: THE COMPLETE COLLECTION TPB (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/68543/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 70301,
+        "digitalId": 0,
+        "title": "Marvel Two-In-One Epic Collection: Cry Monster (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Collects Marvel Feature (1971) #11-12, Marvel Two-In-One (1974) #1-19 and Marvel Team-Up (1972) #47.\n\nWatch out, Yancy Street! Benjamin Grimm, A.K.A. the Fantastic Four's ever-lovin' blue-eyed Thing, is stomping his way into his own series — guest-starring the greatest heroes in the Marvel Universe! In this inaugural MARVEL TWO-IN-ONE Epic Collection, the Thing battles the Incredible Hulk, the minions of Thanos and the giant monster Braggadoom — and even brings the Guardians of the Galaxy back into the firmament of Marvel stars! He also joins forces with icons like Iron Man, Thor, Black Widow, Daredevil and Luke Cage to battle all manner of fearsome foes! And to top it all off, the Thing travels to the pages of MARVEL TEAM-UP to join the amazing Spider-Man in a MTIO/MTU crossover classic!",
+        "modified": "2018-08-03T16:11:05-0400",
+        "isbn": "978-1-302-91332-8",
+        "upc": "",
+        "diamondCode": "MAY180989",
+        "ean": "9781302 913328 53999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 432,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Collects Marvel Feature (1971) #11-12, Marvel Two-In-One (1974) #1-19 and Marvel Team-Up (1972) #47.\n\nWatch out, Yancy Street! Benjamin Grimm, A.K.A. the Fantastic Four's ever-lovin' blue-eyed Thing, is stomping his way into his own series — guest-starring the greatest heroes in the Marvel Universe! In this inaugural MARVEL TWO-IN-ONE Epic Collection, the Thing battles the Incredible Hulk, the minions of Thanos and the giant monster Braggadoom — and even brings the Guardians of the Galaxy back into the firmament of Marvel stars! He also joins forces with icons like Iron Man, Thor, Black Widow, Daredevil and Luke Cage to battle all manner of fearsome foes! And to top it all off, the Thing travels to the pages of MARVEL TEAM-UP to join the amazing Spider-Man in a MTIO/MTU crossover classic!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/70301",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/70301/marvel_two-in-one_epic_collection_cry_monster_trade_paperback?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/25693",
+          "name": "Marvel Two-In-One Epic Collection: Cry Monster (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-08-08T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-06-18T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/5b6222e982280",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/5b6222e982280",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 20,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70301/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/106",
+              "name": "Bob Brown",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+              "name": "Sal Buscema",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1184",
+              "name": "Arvell Jones",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+              "name": "Gil Kane",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+              "name": "Jim Starlin",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/199",
+              "name": "Herb Trimpe",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1183",
+              "name": "George Tuska",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1219",
+              "name": "Ron Wilson",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1273",
+              "name": "Scott Edelman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4771",
+              "name": "Mike Friedman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/144",
+              "name": "Steve Gerber",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1177",
+              "name": "Tony Isabella",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/966",
+              "name": "Bill Mantlo",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1237",
+              "name": "Roger Slifer",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/967",
+              "name": "Len Wein",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/271",
+              "name": "Marv Wolfman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13196",
+              "name": "John Romita Jr.",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 20
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70301/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70301/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/156385",
+              "name": "cover from MARVEL TWO-IN-ONE EPIC COLLECTION: CRY MONSTER TPB (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/156386",
+              "name": "story from MARVEL TWO-IN-ONE EPIC COLLECTION: CRY MONSTER TPB (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/70301/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 67135,
+        "digitalId": 0,
+        "title": "Immortal Hulk (2018) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Walter Langkowski is an ex-football star, a space diplomat and a beloved super hero. Walter Langkowski is charming, healthy and outgoing. Walter Langkowski is the opposite of Bruce Banner. And Walter Langkowski is going to die today, because he went looking for Banner...and found the IMMORTAL HULK.",
+        "modified": "2018-07-26T09:07:02-0400",
+        "isbn": "",
+        "upc": "75960608956700411",
+        "diamondCode": "JUN180851",
+        "ean": "",
+        "issn": "1941-2142",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Walter Langkowski is an ex-football star, a space diplomat and a beloved super hero. Walter Langkowski is charming, healthy and outgoing. Walter Langkowski is the opposite of Bruce Banner. And Walter Langkowski is going to die today, because he went looking for Banner...and found the IMMORTAL HULK."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67135",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67135/immortal_hulk_2018_4?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Immortal-Hulk-4/digital-comic/48940?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24278",
+          "name": "Immortal Hulk (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-08-01T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-07-09T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5b58d1dc83727",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5b58d1dc83727",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5b0ee32c27d70",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67135/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13278",
+              "name": "Ruy Jose",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67135/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009560",
+              "name": "Sasquatch (Walter Langkowski)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67135/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145453",
+              "name": "cover from Immortal Hulk (2018) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145454",
+              "name": "story from Immortal Hulk (2018) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67135/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 67134,
+        "digitalId": 0,
+        "title": "Immortal Hulk (2018) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "What happened in the church on Mercer Avenue? What made the Lembert boy do what he did? Who is the One Below All? Reporter Jackie McGee has four eyewitnesses, with four different viewpoints, telling four different stories. But they all saw Bruce Banner…and the Immortal Hulk.",
+        "modified": "2018-07-12T17:52:32-0400",
+        "isbn": "",
+        "upc": "75960608956700311",
+        "diamondCode": "MAY180852",
+        "ean": "",
+        "issn": "1941-2142",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "What happened in the church on Mercer Avenue? What made the Lembert boy do what he did? Who is the One Below All? Reporter Jackie McGee has four eyewitnesses, with four different viewpoints, telling four different stories. But they all saw Bruce Banner…and the Immortal Hulk."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67134",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67134/immortal_hulk_2018_3?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Immortal-Hulk-3/digital-comic/48545?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24278",
+          "name": "Immortal Hulk (2018 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-07-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-06-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/10/5b46744682079",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/10/5b46744682079",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/5ae8d948ec15b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 11,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67134/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+              "name": "Joe Bennett",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12422",
+              "name": "Garry Brown",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5136",
+              "name": "Paul Hornschemeier",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13105",
+              "name": "Marguerite Sauvage",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13278",
+              "name": "Ruy Jose",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12825",
+              "name": "Leonardo Romero",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "name": "Vc Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 11
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67134/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67134/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145451",
+              "name": "cover from Immortal Hulk (2018) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145452",
+              "name": "story from Immortal Hulk (2018) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67134/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 69462,
+        "digitalId": 0,
+        "title": "Skaar: Son Of Hulk - The Complete Collection (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Born in fire. Raised by monsters. Destined to smash! On an alien planet shattered by war, no one is stronger than Skaar — the savage Son of Hulk! But as a warlord and a princess spread chaos through the wastelands, will Skaar save the puny survivors — or eat them? Skaar seeks the mysterious Old Power, but can even he stop the coming of the Silver Surfer-and Galactus the Devourer? The soothsayers sing: One day, monsters will clash — the boy will confront the man who abandoned him. When the Son of Hulk seeks vengeance on his father, will Earth be turned into Planet Skaar? Collecting SKAAR: SON OF HULK #1-12, SKAAR: SON OF HULK PRESENTS THE SAVAGE WORLD OF SAKAAR, PLANET SKAAR PROLOGUE, WAR OF KINGS: SAVAGE WORLD OF SKAAR and material from HULK FAMILY: GREEN GENES.",
+        "modified": "2018-07-12T17:36:25-0400",
+        "isbn": "978-1-302-91247-5",
+        "upc": "",
+        "diamondCode": "APR180879",
+        "ean": "9781302 912475 53999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 432,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Born in fire. Raised by monsters. Destined to smash! On an alien planet shattered by war, no one is stronger than Skaar — the savage Son of Hulk! But as a warlord and a princess spread chaos through the wastelands, will Skaar save the puny survivors — or eat them? Skaar seeks the mysterious Old Power, but can even he stop the coming of the Silver Surfer-and Galactus the Devourer? The soothsayers sing: One day, monsters will clash — the boy will confront the man who abandoned him. When the Son of Hulk seeks vengeance on his father, will Earth be turned into Planet Skaar? Collecting SKAAR: SON OF HULK #1-12, SKAAR: SON OF HULK PRESENTS THE SAVAGE WORLD OF SAKAAR, PLANET SKAAR PROLOGUE, WAR OF KINGS: SAVAGE WORLD OF SKAAR and material from HULK FAMILY: GREEN GENES."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/69462",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/69462/skaar_son_of_hulk_-_the_complete_collection_trade_paperback?utm_campaign=apiRef&utm_source=55e29352a49977269192553b620b7018"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/25380",
+          "name": "Skaar: Son Of Hulk - The Complete Collection (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-07-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-05-28T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5b47c0359099f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5b47c0359099f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/69462/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+              "name": "Ron Garney",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+              "name": "Butch Guice",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8520",
+              "name": "Gabriel Hardman",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13463",
+              "name": "Timothy Green II",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/537",
+              "name": "Carlo Pagulayan",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7707",
+              "name": "JHEREMY RAAPACK",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3899",
+              "name": "Timothy Truman",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+              "name": "Greg Pak",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/69462/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011223",
+              "name": "Skaar"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/69462/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/153165",
+              "name": "cover from SKAAR: SON OF HULK - THE COMPLETE COLLECTION TPB (2018) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/153166",
+              "name": "story from SKAAR: SON OF HULK - THE COMPLETE COLLECTION TPB (2018) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/69462/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

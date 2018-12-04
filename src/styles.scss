@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+
+.header {
+  justify-self: stretch;
+}
+
+
+.container {
+  display: grid;
+  grid-template-columns: 35% 65%;
+}
+
+.comic-list {
+  overflow: scroll;
+  height: 90vh;
+  
+  .comic-item {
+    display: flex;
+    border: 1px solid;
+    
+    .summary {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  
+}

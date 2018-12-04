@@ -1,0 +1,31 @@
+<div class="header">
+  <div>
+    <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/200px-MarvelLogo.svg.png">  
+  </div>
+  <nav>
+
+  </nav>
+</div>
+<div class="container">
+  <div>
+    <figure>
+      <img [height]="400" [width]="400" [src]="hero?.image">
+      <figcaption>Nome: {{ hero?.name }} | id: {{ hero?.id }}</figcaption>
+    </figure>
+    <div>
+      {{ hero?.description }}
+    </div>
+  </div>
+  <div>
+    <div>Comics Available: {{ hero?.comicsAvailable }}</div>
+    <div class="comic-list">
+      <div [ngClass]="'comic-item'" *ngFor="let comic of comics">
+        <img [width]="180" [height]="180" [src]="comic.image">
+        <div class="summary">
+          <span>{{ comic?.title }}</span>
+          <div class="description">{{ comic?.description }}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
